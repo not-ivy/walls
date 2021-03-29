@@ -5,5 +5,3 @@ please ensure that git lfs is installed, then execute this:
 
 to clone all the lfs objects.
 
-
-Also checkout https://github.com/d1snin/AnimeLibrary !
